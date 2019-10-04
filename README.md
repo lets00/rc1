@@ -47,7 +47,7 @@ Conforme descrito no Projeto Pedagógico do Curso técnico em manutenção e sup
 ### Aula 4 - Modelo TCP/IP e Modelo OSI
 - Camadas de protocolo (Modelo TCP/IP / Modelo OSI)
 - Encapsulamento
-- Arquitetura de rede (modelo cliente/servidor….Modelo P2P)
+- Arquitetura de rede (Modelo cliente/servidor….Modelo P2P)
 
 ### Aula 5 – Dispositivos de rede
 - Hub
